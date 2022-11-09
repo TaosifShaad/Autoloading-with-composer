@@ -5,7 +5,10 @@
     "autoload": {
         "psr-4": {
             "Softzino\\Autoloadpractice\\": "src/"
-        }
+        },
+        "files": [
+            "src/Helper/HelperFn.php"
+        ]
     },
     "minimum-stability": "dev",
     "require-dev": {
